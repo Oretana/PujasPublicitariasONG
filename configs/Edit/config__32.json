@@ -1,0 +1,96 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": false,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "EdicionPujas_9128"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "objectid",
+            "label": "objectid",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "tramo",
+            "label": "Tramo",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "puja_maxima",
+            "label": "Puja inicial",
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "tableInfos": [
+      {
+        "featureLayer": {
+          "id": "EdicionPujas_7356"
+        },
+        "disableGeometryUpdate": true,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "objectid",
+            "label": "objectid",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "tramo",
+            "label": "Tramo",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "nombre",
+            "label": "Nombre",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "telefono",
+            "label": "Telefono",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "email",
+            "label": "Email",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "puja",
+            "label": "Puja",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": true
+  }
+}
