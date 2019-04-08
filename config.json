@@ -18,7 +18,7 @@
   "authorizedCrossOriginDomains": [],
   "title": "Mapa Edición Pujas",
   "subtitle": "with Web AppBuilder for ArcGIS",
-  "keepAppState": true,
+  "keepAppState": false,
   "logo": "images/app-logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [],
